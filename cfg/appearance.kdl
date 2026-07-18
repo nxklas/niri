@@ -28,3 +28,7 @@ animations {
 // This option will also fix border/focus ring drawing behind some semitransparent windows.
 // After enabling or disabling this, you need to restart the apps for this to take effect.
 prefer-no-csd
+
+environment {
+    QT_QPA_PLATFORMTHEME "kde"
+}
