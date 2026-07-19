@@ -44,6 +44,16 @@ window-rule {
 window-rule {
     geometry-corner-radius 12
     clip-to-geometry true
+    draw-border-with-background false
+    opacity 0.95
+    background-effect {
+        xray false
+    }
+}
+
+window-rule {
+    match app-id="zen"
+    opacity 1.0
 }
 
 window-rule {
