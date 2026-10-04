@@ -92,7 +92,7 @@ layout {
         on
 
         width 4
-        active-color "#c4a7e7"
+        active-color "#9ad482"
         inactive-color "#191724"
 
         // Color of the border around windows that request your attention.
@@ -140,7 +140,7 @@ layout {
         offset x=0 y=5
 
         // You can also change the shadow color and opacity.
-        color "#c4a7e7"
+        color "#9ad482"
     }
 
     // Struts shrink the area occupied by windows, similarly to layer-shell panels.
